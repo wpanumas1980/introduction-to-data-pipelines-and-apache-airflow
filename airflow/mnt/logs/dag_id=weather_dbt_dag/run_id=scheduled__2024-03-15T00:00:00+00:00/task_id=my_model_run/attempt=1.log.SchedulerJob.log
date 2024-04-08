@@ -1,0 +1,2 @@
+[2024-03-16T03:06:44.177+0000] {scheduler_job_runner.py:781} ERROR - Executor reports task instance <TaskInstance: weather_dbt_dag.my_model_run scheduled__2024-03-15T00:00:00+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?
+[2024-03-16T04:05:20.686+0000] {scheduler_job_runner.py:781} ERROR - Executor reports task instance <TaskInstance: weather_dbt_dag.my_model_run scheduled__2024-03-15T00:00:00+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?
